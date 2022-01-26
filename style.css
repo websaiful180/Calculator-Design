@@ -1,0 +1,51 @@
+.cal_n{
+    text-align: center;
+  }
+  
+  
+     .calculator{
+       border: 5px solid green;
+       width: 310px;
+       text-align: center;
+       margin: 0 auto;
+       box-sizing: border-box;
+       padding: 5px;
+       background-color: green;
+  
+     }
+  
+  .button-box{
+  
+  
+  }
+  
+  
+  button{
+    height: 65px;
+    width: 65px;
+    margin: 2px;
+  
+  }
+  
+  
+  .Ghor{
+  
+    height: 60px;
+    width: 275px;
+    margin-bottom: 10px;
+  
+  }
+  .but-1, .but-2, .but-3,.but-5, .but-6, .but-7, .but-9, .but-10, .but-11, .but-13, .but-14,.but-15, .but-17, .but-18, .but-19{
+    background-color: blueviolet;
+  }
+  .but-20{
+    background-color: yellow;
+  }
+  .but-4, .but-8, .but-12,.but-16{
+    background-color: yellowgreen;
+  }
+  button:hover{
+    box-shadow: 0px 0px 10px 15px red;
+  }
+  
+  
